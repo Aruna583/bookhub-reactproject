@@ -1,0 +1,19 @@
+.contact-us-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background-color: #f5f7fa;
+}
+
+.contact-us-icon {
+  height: 24px;
+  width: 24px;
+  margin-right: 15px;
+}
+
+.contact-us-description {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
